@@ -1,0 +1,7 @@
+<core:FragmentDefinition 
+    xmlns="sap.m" 
+    xmlns:core="sap.ui.core">
+    <Dialog title="JIRA loading issues" class="sapUiResponsiveContentPadding">
+        <ProgressIndicator percentValue="0" displayValue="1000 of ?" showValue="true" state="None" />
+    </Dialog>
+</core:FragmentDefinition>
